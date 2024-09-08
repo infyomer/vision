@@ -1,0 +1,53 @@
+
+ @media screen and (max-width: 1599px){ 
+	.container{
+		width: 1280px;
+	}
+    .contact{
+        width: 605px;
+    }
+    .contact span{
+        font-size: 13px;
+    }
+    .nav-elements nav ul{
+		margin-left: 35px;
+	}
+	.nav-elements nav ul li{
+		margin-right: 14px;
+	}
+	.arrow img {
+		margin-left: 941px;
+	}
+	.arrow-2 img {
+		padding: 0 0 66px 989px;
+	}
+} 
+
+
+
+@media screen and (max-width: 979px){
+	.container{
+		width: 750px;
+	}
+} 
+
+
+
+ @media screen and (max-width: 767px){
+	.container{
+		width: 96%;
+	}
+	.content-item{
+		display: block;
+		width: 100%;
+	}
+} 
+
+
+
+
+
+ 
+
+
+
